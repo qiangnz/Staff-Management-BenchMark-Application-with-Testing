@@ -1,0 +1,8 @@
+STAFF DETAILS
+Staff ID: 002
+Staff Name: Linda
+Data of Birth: 7/06/1990
+Email: linda@gmail.com
+Annual Sarlary: $55000
+Position: Staff
+Department: IT

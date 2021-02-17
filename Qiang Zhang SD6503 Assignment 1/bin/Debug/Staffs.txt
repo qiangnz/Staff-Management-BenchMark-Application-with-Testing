@@ -1,0 +1,5 @@
+001,Jack,5/08/2020,jack@gmail.com,$50000,Staff,Sales
+002,Linda,7/06/1990,linda@gmail.com,$55000,Staff,IT
+004,Chen,10/02/1997,chen@gmail.com,$60000,Manager,Sales
+005,Lee,12/10/1996,lee@google.com,$80000,Manager,IT
+006,Tom,10/12/1999,tom@gmail.com,$80000,Manager,IT

@@ -1,0 +1,20 @@
+D:\Studying T2 2020\SD6503 Testing and Secure Coding\SD6503_Assignment1\C#\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\bin\Debug\Qiang Zhang SD6503 Assignment 1.exe.config
+D:\Studying T2 2020\SD6503 Testing and Secure Coding\SD6503_Assignment1\C#\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\bin\Debug\Qiang Zhang SD6503 Assignment 1.exe
+D:\Studying T2 2020\SD6503 Testing and Secure Coding\SD6503_Assignment1\C#\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\bin\Debug\Qiang Zhang SD6503 Assignment 1.pdb
+D:\Studying T2 2020\SD6503 Testing and Secure Coding\SD6503_Assignment1\C#\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\obj\Debug\Qiang Zhang SD6503 Assignment 1.csprojAssemblyReference.cache
+D:\Studying T2 2020\SD6503 Testing and Secure Coding\SD6503_Assignment1\C#\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\obj\Debug\Qiang_Zhang_SD6503_Assignment_1.Form1.resources
+D:\Studying T2 2020\SD6503 Testing and Secure Coding\SD6503_Assignment1\C#\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\obj\Debug\Qiang_Zhang_SD6503_Assignment_1.Properties.Resources.resources
+D:\Studying T2 2020\SD6503 Testing and Secure Coding\SD6503_Assignment1\C#\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\obj\Debug\Qiang Zhang SD6503 Assignment 1.csproj.GenerateResource.cache
+D:\Studying T2 2020\SD6503 Testing and Secure Coding\SD6503_Assignment1\C#\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\obj\Debug\Qiang Zhang SD6503 Assignment 1.csproj.CoreCompileInputs.cache
+D:\Studying T2 2020\SD6503 Testing and Secure Coding\SD6503_Assignment1\C#\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\obj\Debug\Qiang Zhang SD6503 Assignment 1.exe
+D:\Studying T2 2020\SD6503 Testing and Secure Coding\SD6503_Assignment1\C#\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\obj\Debug\Qiang Zhang SD6503 Assignment 1.pdb
+C:\Users\qiang\Desktop\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\bin\Debug\Qiang Zhang SD6503 Assignment 1.exe.config
+C:\Users\qiang\Desktop\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\bin\Debug\Qiang Zhang SD6503 Assignment 1.exe
+C:\Users\qiang\Desktop\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\bin\Debug\Qiang Zhang SD6503 Assignment 1.pdb
+C:\Users\qiang\Desktop\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\obj\Debug\Qiang Zhang SD6503 Assignment 1.csprojAssemblyReference.cache
+C:\Users\qiang\Desktop\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\obj\Debug\Qiang_Zhang_SD6503_Assignment_1.Form1.resources
+C:\Users\qiang\Desktop\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\obj\Debug\Qiang_Zhang_SD6503_Assignment_1.Properties.Resources.resources
+C:\Users\qiang\Desktop\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\obj\Debug\Qiang Zhang SD6503 Assignment 1.csproj.GenerateResource.cache
+C:\Users\qiang\Desktop\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\obj\Debug\Qiang Zhang SD6503 Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\qiang\Desktop\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\obj\Debug\Qiang Zhang SD6503 Assignment 1.exe
+C:\Users\qiang\Desktop\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1\obj\Debug\Qiang Zhang SD6503 Assignment 1.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qiang Zhang SD6503 Assignment 1", "Qiang Zhang SD6503 Assignment 1\Qiang Zhang SD6503 Assignment 1.csproj", "{B7170AC4-8587-4B6B-9614-79B03D513FFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMUnitTests", "BMUnitTests\BMUnitTests.csproj", "{75587DD5-CCF4-4690-84F6-B48A16D04E05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7170AC4-8587-4B6B-9614-79B03D513FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7170AC4-8587-4B6B-9614-79B03D513FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7170AC4-8587-4B6B-9614-79B03D513FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7170AC4-8587-4B6B-9614-79B03D513FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75587DD5-CCF4-4690-84F6-B48A16D04E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75587DD5-CCF4-4690-84F6-B48A16D04E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75587DD5-CCF4-4690-84F6-B48A16D04E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75587DD5-CCF4-4690-84F6-B48A16D04E05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5D7F71B-6DA0-4E0B-85B7-3A9443DB697B}
+	EndGlobalSection
+EndGlobal
